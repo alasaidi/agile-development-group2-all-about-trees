@@ -1,55 +1,101 @@
-# Project Name
+# About
 
-<!-- describe your project -->
+A simple little website about trees.
 
 ---
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- [ ] Boilerplate HTML file
+- [ ] Page title in the HTML file
+- [ ] empty CSS file
+- [ ] CSS file is linked to HTML
 
 ---
 
-<!-- copy this section once for each must-have user story -->
-
-## user story
-
-<!-- each issue created from this section will have the `for: user story` label -->
-
-> "as a ... i can ... so that ..."
-
-<!-- write any extra notes or description -->
-
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
+<!--
+  all issues for this user story have a `for: site title` label
+  this section can be copy-pasted into an issue on the project board
+  you can add more labels to these issues (`html`, `css`, `documentation`, ...)
 -->
 
-### Logic: user story
+<!-- issue title -->
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## Site Title
 
-### Interface: user story
+<!-- user story -->
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+> "as a user I can read the title of the page"
 
-### Interaction: user story
+<!-- detailed description -->
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+The site needs a clear title that's easy to read at the top of the page.
 
-### Documentation: user story
+<!-- acceptance criteria -->
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+- [ ] _there is a prominent title at the top left of the web page_ with a logo
+
+<!-- code you think you will need -->
+
+### Site Title: HTML
+
+- Header with the web site's title
+
+### Site Title: CSS
+
+- styling to top left the title
+
+---
+
+## Introduction
+
+> "As a user I can read an introduction to this project"
+
+It should be clear what this project is for and what someone can expect from the
+web page.
+
+- [ ] _there is a section describing the project's goals_
+
+### Introduction: HTML
+
+- a section with some general information about the project and helpful links
+
+### Introduction: CSS
+
+- styling to make the text look fancy
+
+---
+
+## Main Info
+
+> "As a user I can learn about trees"
+
+There should be enough information that the user can learn the basics about
+trees.
+
+- [ ] \_there is a main text in the page with helpful info
+
+### Main Info: HTML
+
+- Main text: a section with some general information about the project
+- Extra Info Links: Button ("Read More")
+
+### Main Info: CSS
+
+- style the text
+- styling to format the list
+
+---
+
+## Extra Info
+
+> "As a user I can learn even more about trees"
+
+Some more links for students who want to go beyond the basics.
+
+- [ ] _there is a button with link for further reading_
+
+### Extra Info: CSS
+
+- styling to position the Button
+- styling to style the text
