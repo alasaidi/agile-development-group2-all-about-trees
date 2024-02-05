@@ -9,22 +9,25 @@ create your own!
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I want to see the page's title
+  - big clear title
+- [ ] As a user, I want to see the logo
+- [ ] As a user, I want to see navigation bar for the website
+- [ ] As a user, I want to see an interesting introduction to trees
+- [ ] As a user, I want to see links for more information
 
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I want to see the some links
+  - trees gallery
+  - sorts of trees
+  - benefits of trees
+  -
 
 ## Could-Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] As a user, I want to see scientific information about tree
