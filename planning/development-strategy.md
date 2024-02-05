@@ -16,7 +16,6 @@ A simple little website about trees.
 <!--
   all issues for this user story have a `for: site title` label
   this section can be copy-pasted into an issue on the project board
-
   you can add more labels to these issues (`html`, `css`, `documentation`, ...)
 -->
 
