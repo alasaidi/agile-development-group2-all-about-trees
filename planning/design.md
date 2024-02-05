@@ -2,16 +2,12 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+> We decided to have a simple page, we didn't make plan colors or anything else.
 
 ---
 
 ## Wireframe(s)
 
-> Include your wireframe(s) and link to wireframe
+![picture](/agile-development-group2-all-about-trees/public/wireframe.png)
 
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+> [wireframe source](https://excalidraw.com/#room=cb1b42de32968898e052,PLoRE_lKu6NA9Gg2biiLHA)
