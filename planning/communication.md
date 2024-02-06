@@ -2,7 +2,10 @@
 
 ## Group Rules
 
-<!-- any general rules you'd like to set for your group? -->
+* each member finish assigned tasks on time
+* show up to group meeting
+* communicate the project leader in case a member
+  got stuck in a task and cannot finish on time
 
 ---
 
@@ -10,17 +13,23 @@
 
 | Day | How | The topic of discussion |
 | --- | :-: | ----------------------- |
-|     |     |                         |
+|  Mon   | Zoom     |    README file                                        |
+|  Tue   | Zoom     |      assigned task for each member                    |
+|  Wed   |  Zoom    |        design and development                         |
+|  Thu   |  Zoom    |      retrospective                                    |
+|   Fri  | Zoom     |             final review                                          |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
-- **GitHub Discussions**
-- **Slack/Discord**:
-- **Video Calls**:
+* slack if a member is stuck on something
+* zoom for meetings and in case a member got stuck in a task
+* create an issue on GitHub for every task a member is assigned for
+* assign project leader for review when the task is done
+* use comment section for comments, requests to change
+   etc.. so that everyone can see
+* pull request if everyone agrees with the code
 
 ---
 
@@ -28,17 +37,17 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+|   | Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
+| ------  | ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| everyone else| Mon-Fri | Evening | Evening |  Evening  | Evening  | Evening | Evening  | Evening |
+|ala| Mon-Fri | Evening | Evening |  N/A| Evening  | Evening | Evening  | Evening |
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+* Khant : _7h_; unavailable during evening language course
+* Ala : _8h_;
+* Ashraf : _5h_;
+* Rasaq : _4h_;
 
 ## Asking for Help
 
