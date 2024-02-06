@@ -4,6 +4,12 @@ Some boundaries around our project.
 
 ## External
 
+- time, deadline, back-up plan in case a member got sick
+- user friendliness
+- technology stack
+- design, UI/UX
+- client satisfaction
+- font, color, accessibility
 <!--
   constraints coming from the outside that your team has no control over.
   These may include:
@@ -14,6 +20,13 @@ Some boundaries around our project.
 
 ## Internal: Involuntary
 
+- collecting relevant data
+- mismatch of user personas
+- members having no experience in the technology the client demands for the
+  project
+- unexpected sickness
+- members not meeting deadlines
+
 <!--
   constraints that come from within your team, and you have no control over.
   They may include:
@@ -22,6 +35,12 @@ Some boundaries around our project.
 -->
 
 ## Internal: Voluntary
+
+- code review by the project leader before every push
+- following industry standards for coding
+- 15 mins meeting every day to assess how the project is going
+- semantic HTML
+- writing good README file, code comments and commit messages
 
 <!--
   constraints that your team decided on to help scope the project. they may include:
