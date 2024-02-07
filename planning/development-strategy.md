@@ -1,101 +1,118 @@
-# About
+# All-about-trees
 
-A simple little website about trees.
+## 0.Setup
 
----
-
-## Setup
-
-- [ ] Boilerplate HTML file
-- [ ] Page title in the HTML file
-- [ ] empty CSS file
-- [ ] CSS file is linked to HTML
+- create a new repo form the template `group2 all about tree`
+- add collaborators
+- turn on github pages and give them `write` access
+- protect `master` branch
 
 ---
 
-<!--
-  all issues for this user story have a `for: site title` label
-  this section can be copy-pasted into an issue on the project board
-  you can add more labels to these issues (`html`, `css`, `documentation`, ...)
--->
+## 1. Title
 
-<!-- issue title -->
+### As a user I want to see the title of the page
 
-## Site Title
+- This user story is developed on branch `9-title`.
+- This branch is merged to `master` branch after completion.
 
-<!-- user story -->
+### html
 
-> "as a user I can read the title of the page"
+- add `background` image
+- add `div` tag
+- add `nav` tag
+- add `h1` for the page title
 
-<!-- detailed description -->
+### css
 
-The site needs a clear title that's easy to read at the top of the page.
+- add class`background` to the `body`
+- add class`header` to the `div`
+- make the display `flex` and add `padding`
 
-<!-- acceptance criteria -->
+## 2. Logos
 
-- [ ] _there is a prominent title at the top left of the web page_ with a logo
+### As a user I want to see logos of the page
 
-<!-- code you think you will need -->
+- This user story is developed on branch `10-logos`.
+- This branch is merged to `master` branch after completion.
 
-### Site Title: HTML
+### html
 
-- Header with the web site's title
+- add logo `img`
 
-### Site Title: CSS
+### css
 
-- styling to top left the title
+- add class `logo` to `img`
+- add `width` and `margin`
 
----
+## 3. Navigation links
 
-## Introduction
+### As a user I want to see navigation links
 
-> "As a user I can read an introduction to this project"
+- This user story is developed on branch `navLinks`.
+- This branch is merged to `master` branch after completion.
 
-It should be clear what this project is for and what someone can expect from the
-web page.
+### html
 
-- [ ] _there is a section describing the project's goals_
+- add two `nav`
+- add a `ul`
+- add a `li`
+- add `a`
 
-### Introduction: HTML
+### css
 
-- a section with some general information about the project and helpful links
+- add id `side-menu` to both `ul`
+- add `border`
+- add class `spaced-items` to the parent `div`
+- make display `flex` and add `padding`
 
-### Introduction: CSS
+## 4. Description
 
-- styling to make the text look fancy
+### As a user I want to see description of the page
 
----
+- This user story is developed on branch `description`.
+- This branch is merged to `master` branch after completion.
 
-## Main Info
+### html
 
-> "As a user I can learn about trees"
+- add `section`
+- add `p`
 
-There should be enough information that the user can learn the basics about
-trees.
+### css
 
-- [ ] \_there is a main text in the page with helpful info
+- add id `summary-info` to both `section`
+- add class `fascinating-words` to `p`
+- make the font family `fantasy`
 
-### Main Info: HTML
+## 5. Extra info
 
-- Main text: a section with some general information about the project
-- Extra Info Links: Button ("Read More")
+### As a user I want to see extra link one the page
 
-### Main Info: CSS
+- This user story is developed on branch `extraLink`.
+- This branch is merged to `master` branch after completion.
 
-- style the text
-- styling to format the list
+### html
 
----
+- add `button`
 
-## Extra Info
+### css
 
-> "As a user I can learn even more about trees"
+- add class `button`
+- add border
+- add button:hover
 
-Some more links for students who want to go beyond the basics.
+## 7. Social media links
 
-- [ ] _there is a button with link for further reading_
+### As a user I want to see social media links to contact the website owner
 
-### Extra Info: CSS
+- This user story is developed on branch `15-socialMedia`.
+- This branch is merged to `master` branch after completion.
 
-- styling to position the Button
-- styling to style the text
+### html
+
+- add `footer`
+- add `a`
+
+### css
+
+- add class `spaced-items` to `footer`
