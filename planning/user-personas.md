@@ -10,6 +10,8 @@
 
 ## User Persona: Garden Owner - Their Role
 
+[Sherman Abernathy](https://www.semrush.com/persona/share/3pwi4nxZaHtcSyPeSwA6wEKFsDhIQdFeNB0t87Md9kk/)
+
 - **Bio**:
 
   - Avid gardener with a diverse collection of plants and trees in their garden.
@@ -36,6 +38,8 @@
 ---
 
 ## User Persona: College Student - Their Role
+
+[Kayla Stamm](https://www.semrush.com/persona/share/sTaVH8cid87PM6Dx9svg3q9VgNr4lx9XJ9bqhtPY4Kg/)
 
 - **Bio**:
 
