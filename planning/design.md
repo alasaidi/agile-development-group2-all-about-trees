@@ -2,9 +2,9 @@
 
 ## Project's design overview
 
-> We decided to have a simple page, we didn't make plan colors or anything else.
+> We decided to have a simple page.
 
----
+## ![picture](/agile-development-group2-all-about-trees/public/design.png)
 
 ## Wireframe(s)
 
