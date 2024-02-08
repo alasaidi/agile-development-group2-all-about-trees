@@ -1,6 +1,18 @@
 # Name of project
 
-> A longer description
+## All about tree
+
+>
+
+- is a great website to have simple reliable educational information on the
+  World Wide Web
+
+- Welcome to our trees website, here, we explore the fascinating world of trees,
+  from their different types to their importance in our environment whether
+  you're a natural lover, a student, or simply curious Join us as we discover
+  the beauty and significance of three together
+
+`He that plants trees, loves others besides himself` _Thomas Fuller_
 
 ## Table of contents
 
@@ -22,55 +34,38 @@
 
 ## General info
 
-> A short description
+> Trees tend to be long-lived, some reaching several thousand years old. Trees
+> have been in existence for 370 million years. It is estimated that there are
+> around three trillion mature trees in the world. A tree typically has many
+> secondary branches supported clear of the ground by the trunk.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Our Design](/public/design.png) ![picture](/public/wireframe.png)
 
 ## Technologies
 
-- Node 14.16.0
+- Node 20.6.0
 - VSC code
-- JavaScript
-- ...
-- ...
-
-## Setup
-
-- `npm run start`
-
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
-
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
+- HTML
+- CSS
+- adobe illustrator
+- slack
+- GitHub
+- Markdown
+- agile methodology
 
 ## Status
 
-Project is: _in progress_
+Project is: _Done_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by group-2
 
 ## Contact
 
-By [Name]
+By [Ala, khant, Rasaq and Ashraf]
 
 ## Instructions for use
 
