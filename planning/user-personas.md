@@ -42,7 +42,7 @@
 
 ## User Persona: College Student - Their Role
 
-[Kayla Stamm](https://www.semrush.com/persona/share/sTaVH8cid87PM6Dx9svg3q9VgNr4lx9XJ9bqhtPY4Kg/)
+[Kayla-Stamm](https://www.semrush.com/persona/share/sTaVH8cid87PM6Dx9svg3q9VgNr4lx9XJ9bqhtPY4Kg/)
 
 - **Bio**:
 

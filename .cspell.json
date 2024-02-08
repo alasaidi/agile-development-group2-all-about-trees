@@ -18,7 +18,8 @@
     "infographics",
     "Khant",
     "Ashraf",
-    "Rasaq"
+    "Rasaq",
+    "Stamm"
   ],
   "ignorePaths": [
     "node_modules/**",
