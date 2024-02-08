@@ -48,3 +48,12 @@ nav ul li a {
   display: flex;
   justify-content: space-around;
 }
+
+.footer {
+  /* Your footer styling */
+  text-align: center;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 70%;
+}
