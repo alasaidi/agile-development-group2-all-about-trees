@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 
-body {
+.bg {
   background: url("/public/background.png") no-repeat center center fixed;
   background-size: 100% 100%;
 }
